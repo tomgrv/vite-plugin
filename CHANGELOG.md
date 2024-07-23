@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/vite-plugin/compare/v1.0.4...1.x)
+## [Unreleased](https://github.com/laravel/vite-plugin/compare/v1.0.5...1.x)
+
+## [v1.0.5](https://github.com/laravel/vite-plugin/compare/v1.0.4...v1.0.5) - 2024-07-09
+
+* TypeScript: define entrypoints using object by [@tylerlwsmith](https://github.com/tylerlwsmith) in https://github.com/laravel/vite-plugin/pull/298
 
 ## [v1.0.4](https://github.com/laravel/vite-plugin/compare/v1.0.3...v1.0.4) - 2024-05-17
 
