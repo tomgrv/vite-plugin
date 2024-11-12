@@ -1,6 +1,11 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/vite-plugin/compare/v1.0.5...1.x)
+## [Unreleased](https://github.com/laravel/vite-plugin/compare/v1.0.6...1.x)
+
+## [v1.0.6](https://github.com/laravel/vite-plugin/compare/v1.0.5...v1.0.6) - 2024-11-12
+
+* Replace dead link in Security Policy by [@Jubeki](https://github.com/Jubeki) in https://github.com/laravel/vite-plugin/pull/300
+* Look for certificates in valet linux config directory by [@jameshulse](https://github.com/jameshulse) in https://github.com/laravel/vite-plugin/pull/307
 
 ## [v1.0.5](https://github.com/laravel/vite-plugin/compare/v1.0.4...v1.0.5) - 2024-07-09
 
