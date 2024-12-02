@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/vite-plugin/compare/v1.0.6...1.x)
+## [Unreleased](https://github.com/laravel/vite-plugin/compare/v1.1.0...1.x)
+
+## [v1.1.0](https://github.com/laravel/vite-plugin/compare/v1.0.6...v1.1.0) - 2024-12-02
+
+* Upgrade to Vite 6 by [@timacdonald](https://github.com/timacdonald) in https://github.com/laravel/vite-plugin/pull/310
 
 ## [v1.0.6](https://github.com/laravel/vite-plugin/compare/v1.0.5...v1.0.6) - 2024-11-12
 
