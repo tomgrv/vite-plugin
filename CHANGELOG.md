@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/vite-plugin/compare/v1.1.0...1.x)
+## [Unreleased](https://github.com/laravel/vite-plugin/compare/v1.1.1...1.x)
+
+## [v1.1.1](https://github.com/laravel/vite-plugin/compare/v1.1.0...v1.1.1) - 2024-12-03
+
+* [1.1] Fix dependency issue with Vite 5 by [@jessarcher](https://github.com/jessarcher) in https://github.com/laravel/vite-plugin/pull/313
 
 ## [v1.1.0](https://github.com/laravel/vite-plugin/compare/v1.0.6...v1.1.0) - 2024-12-02
 
