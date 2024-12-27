@@ -244,7 +244,7 @@ function resolveLaravelPlugin(pluginConfig: Required<PluginConfig>): LaravelPlug
             return () => server.middlewares.use((req, res, next) => {
                 if (req.url === '/index.html') {
                     res.statusCode = 404
-
+                    res.setHeader('content-type', 'text/html');
                     res.end(
                         fs.readFileSync(path.join(dirname(), 'dev-server-index.html')).toString().replace(/{{ APP_URL }}/g, appUrl)
                     )
